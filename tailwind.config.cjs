@@ -6,16 +6,16 @@ module.exports = {
       colors: {
         customPrimary: "#B9D660",
         customSecondary: "#B9D662",
-        customDarkBg1: "rgb(31, 32, 35)",
-        customDarkBg2: "rgb(38, 39, 43)",
-        customDarkBg3: "rgb(48, 49, 54)",
-        customDarkBg3Hover: "rgb(55, 56, 62)",
-        customContentSubtitle: "rgb(178, 184, 205)",
-        customGrayBorder: "rgb(255,255,255,0.1)",
+        customDarkBg1: "#000044",
+        customDarkBg2: "#040450",
+        customDarkBg3: "#131361",
+        customDarkBg3Hover: "#21215F",
+        customContentSubtitle: "#fff",
+        customGrayBorder: "#131361",
         customGrayText: "rgb(174, 178, 183)",
-        customDarkBgTransparent: "rgb(31, 32, 35, 0.7)",
-        customDarkBgTransparentDarker: "rgb(0,0,0,0.5)",
-        customDarkBgTransparentLighter: "rgb(48, 49, 54, 0.7)"  
+        customDarkBgTransparent: "rgb(33, 33, 95, 0.7)",
+        customDarkBgTransparentDarker: "rgb(1,1,58,0.5)",
+        customDarkBgTransparentLighter: "rgb(45, 45, 105, 0.7)"  
       },
       fontFamily: {
         Inter: "Inter",
